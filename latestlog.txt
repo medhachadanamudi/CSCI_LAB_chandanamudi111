@@ -1,0 +1,96 @@
+commit 41bdd6d0104fcf5c1d29eff838cc781afb466409
+Author: medha chandanamudi <medha.cu@gmail.com>
+Date:   Wed Mar 15 19:42:51 2023 -0400
+
+    fIVETH commit
+
+commit 0c07bec8ec39e48fd75f0a8b5d457ff1904936b5
+Merge: 039c2ca e601964
+Author: medha chandanamudi <medha.cu@gmail.com>
+Date:   Wed Mar 15 19:28:07 2023 -0400
+
+    Merge branch 'main' of https://github.com/Kollar1/CSCI_LAB_KOLLA
+
+commit 039c2ca94c8610cfdcf72539054f906c37b5ac9d
+Author: medha chandanamudi <medha.cu@gmail.com>
+Date:   Wed Mar 15 19:26:11 2023 -0400
+
+    fourth commit
+
+commit e601964711e568fe0f65fc34d90b5feee1551f2b
+Author: Radhika Chowdary Kolla <kollar1@findlay.edu>
+Date:   Wed Mar 15 19:20:37 2023 -0400
+
+    third commit
+
+commit c3633846c7634e508097d056979ff7b02e3c5195
+Author: medha chandanamudi <medha.cu@gmail.com>
+Date:   Wed Mar 15 19:16:23 2023 -0400
+
+    second commit
+
+commit c13c7784a0c572ee98dfa9d228b08f791b1b052d
+Author: Radhika Chowdary Kolla <kollar1@findlay.edu>
+Date:   Wed Mar 15 19:03:50 2023 -0400
+
+    first commit
+
+commit 6f186dfcaa1e24bc0cde30240549625a9b7343e0
+Author: Radhika Chowdary Kolla <127360371+Kollar1@users.noreply.github.com>
+Date:   Wed Mar 15 18:55:00 2023 -0400
+
+    Delete file1_d.txt
+
+commit 7cc735278fa4548a072eac5e3063f51e989dd693
+Author: Radhika Chowdary Kolla <127360371+Kollar1@users.noreply.github.com>
+Date:   Wed Mar 15 18:52:35 2023 -0400
+
+    Delete file1_c.txt
+
+commit fd4b381b415164bca090b5c820e32e363ddbe792
+Author: Radhika Chowdary Kolla <127360371+Kollar1@users.noreply.github.com>
+Date:   Wed Mar 15 18:52:29 2023 -0400
+
+    Delete file1_b.txt
+
+commit 5808d6b94be2271f5ead6a25ca514a2eeff81bcf
+Author: Radhika Chowdary Kolla <127360371+Kollar1@users.noreply.github.com>
+Date:   Wed Mar 15 18:52:23 2023 -0400
+
+    Delete file1_a.txt
+
+commit 16c0597bd92d5de1d8387b36e6b01fd2e8ad843b
+Author: medha chandanamudi <75871020+medhachadanamudi@users.noreply.github.com>
+Date:   Mon Mar 13 19:47:08 2023 -0400
+
+    Update file1_d.txt
+
+commit 2576c73738a840bdb2180c4fc768d921b8dad1f8
+Author: medha chandanamudi <75871020+medhachadanamudi@users.noreply.github.com>
+Date:   Mon Mar 13 19:46:59 2023 -0400
+
+    Update file1_c.txt
+
+commit 2985349cb19366d4078c94fec5092ff6c4295e48
+Author: medha chandanamudi <75871020+medhachadanamudi@users.noreply.github.com>
+Date:   Mon Mar 13 19:46:48 2023 -0400
+
+    Update file1_b.txt
+
+commit b00c6a5df78266122b8d1e2337e04a0e0fb161ee
+Author: medha chandanamudi <75871020+medhachadanamudi@users.noreply.github.com>
+Date:   Mon Mar 13 19:46:38 2023 -0400
+
+    Update file1_a.txt
+
+commit 534c0392679744d2f04de66d819e2289051a6675
+Author: medha chandanamudi <medha.cu@gmail.com>
+Date:   Mon Mar 13 19:44:32 2023 -0400
+
+    second commit
+
+commit 72495a352f047c5ec107767cc6566156d57e1b9b
+Author: kollar1 <kollar1@findlay.edu>
+Date:   Mon Mar 13 19:29:18 2023 -0400
+
+    first commit
